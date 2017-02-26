@@ -3,7 +3,7 @@ Information retrieval based on TF-IDF representation &amp; vector space model
 
 Detailed python code with comments and results-analysis is provided in .ipynb file
 
-Code coves- 
+Code covers- 
 - Boolean Retrieval of regular and phrase queries 
 - Ranked Retrieval using TF-IDF scores 
 
